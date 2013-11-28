@@ -4,7 +4,9 @@
         <Dwika_EnterprisePreview>
             <active>true</active>
             <codePool>local</codePool>
-            <depends></depends>
+            <depends>
+            	<Enterprise_Cms/>
+            </depends>
         </Dwika_EnterprisePreview>
     </modules>
 </config>
