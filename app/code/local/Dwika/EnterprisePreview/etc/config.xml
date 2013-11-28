@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Dwika_EnterprisePreview>
+            <version>0.0.1</version>
+        </Dwika_EnterprisePreview>
+    </modules>
+    <global>
+        <blocks>
+            <dwika_enterprisepreview>
+                <class>Dwika_EnterprisePreview_Block</class>
+            </dwika_enterprisepreview>
+        </blocks>
+        <models>
+            <dwika_enterprisepreview>
+                <class>Dwika_EnterprisePreview_Model</class>
+            </dwika_enterprisepreview>
+        </models>
+    </global>
+</config>
